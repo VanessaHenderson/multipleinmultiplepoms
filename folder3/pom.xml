@@ -16,9 +16,10 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.jruby</groupId>
-            <artifactId>jruby</artifactId>
-            <version>1.7.1</version>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.4</version>
+            <type>jar</type>
         </dependency>
     </dependencies>
 </project>
